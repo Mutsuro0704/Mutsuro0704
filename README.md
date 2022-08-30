@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mutsuro0704.I started programming in October 2021.
 - 👀 I’m interested in poppin dance
-- 🌱 I’m currently learning Python,Java,c++, JavaScript.
+- 🌱 I’m currently learning Python,Java,c++, JavaScript, ruby, MySQL.
  
 
 
